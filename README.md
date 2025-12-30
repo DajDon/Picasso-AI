@@ -13,7 +13,8 @@ Just launch PicassoAI.exe and you can start chating!
 - Automatic language detection and response
 - Clean, modern dark UI design
 - Threaded API calls for smooth performance
-- Chat history with scrollable interface
+- Scrollable interface
 - Custom visual elements and branding
 
 www.dajdon.hu
+
