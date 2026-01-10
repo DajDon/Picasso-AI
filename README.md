@@ -18,3 +18,4 @@ Just launch PicassoAI.exe and you can start chating!
 
 www.dajdon.hu
 
+<img width="647" height="565" alt="image" src="https://github.com/user-attachments/assets/1a1d2cc7-44d4-4eb9-beda-9e8f63a610fe" />
