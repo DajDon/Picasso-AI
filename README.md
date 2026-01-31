@@ -15,6 +15,7 @@ Just launch PicassoAI.exe and you can start chating!
 - Threaded API calls for smooth performance
 - Scrollable interface
 - Custom visual elements and branding
+- 135+ IQ
 
 www.dajdon.hu
 
